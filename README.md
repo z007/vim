@@ -1,1 +1,2 @@
-# vim  »·¾³²å¼şÅäÖÃ
+ï»¿# vim ç¯å¢ƒé…ç½® æ’ä»¶å®‰è£…
+## VIM environment configuration plug-in installation
